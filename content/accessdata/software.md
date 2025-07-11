@@ -4,7 +4,7 @@ nav_order: 3
 title: Software & Toolboxes
 ---
 
-# MEDIATION-tools
+## MEDIATION toolboxes and software
 
 Here you will find a list of toolboxes, processing tools and other pieces of software that have been used and / or produced within the project, with all their essential information, to properly reproduce the results of the studies they were involved in. 
 
