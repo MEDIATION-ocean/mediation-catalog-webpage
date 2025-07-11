@@ -4,7 +4,7 @@ nav_order: 2
 title: Simulations
 ---
 
-# MEDIATION simulations
+## MEDIATION simulations
 
 Here you will find all the available data that have been used and / or produced within the project, such as outputs, configuration files, forcings, boundary conditions, etc.
 
