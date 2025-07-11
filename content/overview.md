@@ -3,7 +3,7 @@ nav_order: 1
 title: Overview
 ---
 
-{% include figure.html img="ocean-bandeau.jpg" alt="ocean bandeau" caption="" width="75%" %}
+{% include figure.html img="ocean-bandeau.jpg" alt="ocean bandeau" caption="" width="95%" %}
 
 ## Some context - what is going on
 
