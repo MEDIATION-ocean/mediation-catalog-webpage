@@ -1,5 +1,10 @@
-## MEDIATION-simulations
+---
+section: Access data
+nav_order: 1
+title: Simulations
+---
 
+# MEDIATION simulations
 
 Here you will find all the available data that have been used and / or produced within the project, such as outputs, configuration files, forcings, boundary conditions, etc.
 
