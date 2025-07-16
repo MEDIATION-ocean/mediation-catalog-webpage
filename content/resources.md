@@ -1,6 +1,6 @@
 ---
 nav_order: 7
-title: Reference & Resources
+title: References & Resources
 ---
 
 ## Git & GitHub
@@ -30,7 +30,7 @@ Jekyll projects are [configured](https://jekyllrb.com/docs/configuration/) using
 ## Liquid
 
 [Liquid](http://shopify.github.io/liquid/) is a flexible template language.
-[In Jekyll]((https://jekyllrb.com/docs/liquid/) it allows you to layout pages built from modular components and data, using the "_includes", "_layouts", and "_data" directories.
+[In Jekyll](https://jekyllrb.com/docs/liquid/) it allows you to layout pages built from modular components and data, using the "_includes", "_layouts", and "_data" directories.
 Liquid includes features such as operators, loops, and filters to manipulate raw content. 
 Liquid statements are enclosed by {% raw %}`{%  %}`{% endraw %} and variables in {% raw %}`{{  }}`{% endraw %}.
 
