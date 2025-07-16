@@ -17,5 +17,5 @@ The MEDIATION project focuses on developing innovative tools and raise knowledge
 
 ## What is available
 
-The simulation data (inputs & outputs, configs), but also toolboxes and other pieces of software, are listed and detailed [here](https://github.com/mediation-ocean.github.io/mediation-catalog-webpage/content/accessdata/). They are either available by direct download on our github repositories, or by accessing other clusters / servers / databases.
+The [simulation data](https://mediation-ocean.github.io/mediation-catalog-webpage/content/docs/simulations.html), but also [toolboxes and other pieces of software](https://mediation-ocean.github.io/mediation-catalog-webpage/content/docs/tools.html), are listed and detailed in the 'Access Data ' section. They are either available by direct download on our github repositories, or by accessing other clusters / servers / databases.
     
