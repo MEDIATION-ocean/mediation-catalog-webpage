@@ -2,7 +2,6 @@
 section_id: Access Data
 nav_order: 6
 title: Simulations
-topics: Front Matter; Navigation
 ---
 
 ## MEDIATION-simulations
