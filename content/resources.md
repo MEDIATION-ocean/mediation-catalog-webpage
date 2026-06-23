@@ -1,6 +1,6 @@
 ---
 nav_order: 7
-title: References & Resources
+title: Resources
 ---
 
 ## Git & GitHub
