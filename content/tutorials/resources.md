@@ -17,6 +17,6 @@ ODATIS propose des outils et plateformes qui permettent donc le partage, l'archi
   - pour tous les jeux de données associées au projet : upload sur [Sextant](https://sextant.ifremer.fr/) possible en faisant [une demande spécifique pour MEDIATION](https://sextant.ifremer.fr/Donnees/Deposer-une-donnee). Ces données peuvent ensuite moissonnées sur ODATIS.
 
 
-
+Hors infrastructures de DataTerra, il est également possible de déposer des datasets avec la [communauté Zenodo MEDIATION](https://zenodo.org/communities/mediation-ocean/).
 
 
