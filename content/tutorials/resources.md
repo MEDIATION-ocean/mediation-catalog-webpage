@@ -10,9 +10,11 @@ title: Hébergement des données
 
 ODATIS propose des outils et plateformes qui permettent donc le partage, l'archivage et l'identification de données :
 
-  - pour l'upload de données <100G, l'entrepôt [SEANOE](https://www.seanoe.org/) : voir [le tutoriel dédié](https://mediation-ocean.github.io/mediation-catalog-webpage/content/tutorials/seanoe.html) 
+  - pour l'upload de données <100G, l'entrepôt [SEANOE](https://www.seanoe.org/) : voir [le tutoriel dédié](https://mediation-ocean.github.io/mediation-catalog-webpage/content/tutorials/seanoe.html)
+    
   - pour l'archivage de données plus massives (<15T), le mésocentre de calcul opéré par l'Ifremer [Datarmor](https://datarmor.ifremer.fr/) offre des services d'archivage, partage et doi à ses partenaires, remplir ce [formulaire](https://forms.ifremer.fr/datarmor/catalogage/)
-  - pour tous les jeux de données : upload sur [Sextant](https://sextant.ifremer.fr/) possible en faisant [une demande spécifique pour MEDIATION](https://sextant.ifremer.fr/Donnees/Deposer-une-donnee). Ces données peuvent ensuite moissonnées sur ODATIS.
+    
+  - pour tous les jeux de données associées au projet : upload sur [Sextant](https://sextant.ifremer.fr/) possible en faisant [une demande spécifique pour MEDIATION](https://sextant.ifremer.fr/Donnees/Deposer-une-donnee). Ces données peuvent ensuite moissonnées sur ODATIS.
 
 
 
