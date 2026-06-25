@@ -6,9 +6,10 @@ title: Add a dataset
 
 # Add a dataset to this catalog
 
-You want to add your simulation, a meaningful observation dataset or a software you develop/use to this catalog ?
+You want to add your simulation, a meaningful dataset or a software you develop/use to this catalog ?
 
-Please contact Tino Bellayer (tino.bellayer@univ-grenoble-alpes.fr) with the following informations :
+Please fill in the template on the [MEDIATION shared inventory](https://docs.google.com/document/d/1PNQFRw5KpJkt8F20ubaSlxzxd3bDrm9yL7-ctjpuNyc/edit?pli=1&tab=t.0),
+Or contact Tino Bellayer (tino.bellayer@univ-grenoble-alpes.fr) with the following informations :
 
   - title
   - people in charge and affiliation
