@@ -8,9 +8,9 @@ title: Add a dataset
 
 You want to add your simulation, a meaningful dataset or a software you develop/use to this catalog ?
 
-Please fill in the template on the [MEDIATION shared inventory](https://docs.google.com/document/d/1PNQFRw5KpJkt8F20ubaSlxzxd3bDrm9yL7-ctjpuNyc/edit?pli=1&tab=t.0),
-Or contact Tino Bellayer (tino.bellayer@univ-grenoble-alpes.fr) with the following informations :
+Please fill in the template on the [MEDIATION shared inventory](https://docs.google.com/document/d/1PNQFRw5KpJkt8F20ubaSlxzxd3bDrm9yL7-ctjpuNyc/edit?pli=1&tab=t.0), and contact Tino Bellayer (tino.bellayer@univ-grenoble-alpes.fr) with the following informations :
 
+for a simulation or configuration:
   - title
   - people in charge and affiliation
   - scientific context and background
@@ -22,7 +22,7 @@ Or contact Tino Bellayer (tino.bellayer@univ-grenoble-alpes.fr) with the followi
   - calculation cost, volume, access
   - other useful informations
 
-for a software : 
+for a piece of software: 
 
   - title
   - people in charge and affiliation
@@ -30,3 +30,5 @@ for a software :
   - documentation, tutorials
   - access
   - other useful informations
+
+It is also possible to quickly add your dataset directly on this website, all by yourself! For this purpose, please check out the [dedicated tutorial](https://github.com/MEDIATION-ocean/mediation-catalog-webpage/blob/main/README.md) on the website git repository.
