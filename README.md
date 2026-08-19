@@ -3,6 +3,65 @@
 This repository is the source code for the [MEDIATION catalog webpage](https://mediation-ocean.github.io/mediation-catalog-webpage/). 
 The website's architecture follows the same outline as the MEDIATION-catalog Github repository (simulation data / toolboxes & software / observations, topped by a short overview).
 
+
+# How to add content
+
+## Just a few prerequesites
+
+Want to add a dataset, model configuration, or any product to this catalog all by yourself ? Before doing anything, there are 3 prerequisites to enrich this website with material of your own:
+
+- You must have a [Github account](https://github.com/login),
+- You must have been invited as a member of the website repository (the very one you are currently exploring). For this, please provide your github ID to [tino.bellayer@univ-grenoble-alpes.fr](mailto:tino.bellayer@univ-grenoble-alpes.fr).
+- Make sure that you are not mistakenly altering other's work! 
+
+# Procedure
+
+Before getting to this github repository, please pre-write your content on your personal machine as a [markdown (.md) file]. 
+Just provide a quick plain-text decription and fill in the following template:
+
+for a model run or configuration:
+
+    title
+    people in charge and affiliation
+    scientific context and background
+    related publications
+    number of simulations (+number of members if ensemble)
+    configurations, parameters, resolution, timestep, domain, span
+    target variables
+    related processing tools
+    calculation cost, volume, access
+    other useful informations
+
+for a software:
+
+    title
+    people in charge and affiliation
+    description
+    documentation, tutorials
+    access
+    other useful informations
+
+Now, in order to add content to the website, you have to make a github commit. Here is ho to proceed: 
+
+- After logging in to github, Simply go to the repository's [main page](https://github.com/MEDIATION-ocean/mediation-catalog-webpage/tree/main).
+  ![main page](https://github.com/MEDIATION-ocean/mediation-catalog-webpage/blob/main/images/mainpage.png)
+
+- The only thing you will have to look for is the **content** folder. Click on the folder to access it.
+  ![content folder](https://github.com/MEDIATION-ocean/mediation-catalog-webpage/blob/main/images/contentsection.png)
+  
+- Once there, choose the subfolder that is adapted to your product (Litterature, simulations, software, etc...).
+- Click on **add file --> upload file**.
+  ![simulations subfolder](https://github.com/MEDIATION-ocean/mediation-catalog-webpage/blob/main/images/simsubsection.png)
+
+- You are now able to drag & drop your file(s), and add a little description of your commit. As it is a community effort, you can simply upload your commit directly to the main branch.
+  ![upload box](https://github.com/MEDIATION-ocean/mediation-catalog-webpage/blob/main/images/uploadbox.png)
+
+And you are all good.
+
+**NB:** If anything remains uncertain to you, please make your commit to a new branch, which will start a [pull request](https://docs.github.com/en/pull-requests/reference/pull-requests). This allows you to dicuss your modifications with the repository administrators, and eventually make your commit with their approval.
+**NB:** The upload should take a few minutes to appear on the webpage itself, while the completion is going on.
+
+
 ## References & resources
 
 ### The Learn-Static Lesson template (adapted from evanwill, 2022)
